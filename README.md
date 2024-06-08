@@ -45,4 +45,3 @@ You can install the required packages using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-'''
